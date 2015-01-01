@@ -1,1 +1,1 @@
-https://prostate-milan-got-shoe.trycloudflare.com
+https://api.trycloudflare.com
