@@ -78,7 +78,7 @@
       "U Fijo": [2, "H - 4.4"],
       "U Corr": [2, "H - 5.4"],
       "U Horiz": [4, "(A + 1.4) / 2"],
-      "barra Toall": [2, "{U Horiz} - 8"]
+      "barra Toall": [2, "(A + 1.4) / 2 - 8"]
     }
   }
 }
