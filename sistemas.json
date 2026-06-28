@@ -68,6 +68,17 @@
       "H. Inferior": [4, "(A - 2.5) / 4"],
       "Vidrio_Alto": [4, "H - 9.3"],
       "Vidrio_Ancho":[1, "((A - 2.5) / 4) - 1.8"]
+    },
+    "div. baño": {
+      "acrilico": {
+        "Cabezal":   [1, "A"],
+        "Sillar":    [1, "A - 1"],
+        "Jambas":    [1, "H - 3"],
+        "U Fijo":    [2, "H - 4.4"],
+        "U Corr":   [2, "H - 5.4"],
+        "U Horiz":  [4, "(A + 1.4) / 2"],
+     "barra Toall": [2, "{U Horiz} - 8"]
+      }
     }
   }
 }
