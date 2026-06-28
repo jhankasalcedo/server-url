@@ -74,7 +74,7 @@
     "acrilico": {
       "Cabezal": [1, "A"],
       "Sillar": [1, "A - 1"],
-      "Jambas": [1, "H - 3"],
+      "Jambas": [2, "H - 3"],
       "U Fijo": [2, "H - 4.4"],
       "U Corr": [2, "H - 5.4"],
       "U Horiz": [4, "(A + 1.4) / 2"],
