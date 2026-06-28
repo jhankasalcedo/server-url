@@ -1,84 +1,84 @@
 {
   "7-44": {
     "2 Hojas": {
-      "Cabezal":     [1, "A"],
-      "Sillar":      [1, "A"],
-      "Jamba":       [2, "H - 1.5"],
-      "Enganche":    [2, "H - 2.5"],
-      "Traslape":    [2, "H - 2.5"],
+      "Cabezal": [1, "A"],
+      "Sillar": [1, "A"],
+      "Jamba": [2, "H - 1.5"],
+      "Enganche": [2, "H - 2.5"],
+      "Traslape": [2, "H - 2.5"],
       "H. Superior": [2, "(A - 0.7) / 2"],
       "H. Inferior": [2, "(A - 0.7) / 2"],
       "Vidrio_Alto": [2, "H - 9.3"],
-      "Vidrio_Ancho":[1, "((A - 0.7) / 2) - 5.5"]
+      "Vidrio_Ancho": [1, "((A - 0.7) / 2) - 5.5"]
     },
     "3 Hojas": {
-      "Cabezal":     [1, "A"],
-      "Sillar":      [1, "A"],
-      "Jamba":       [2, "H - 1.5"],
-      "Enganche":    [4, "H - 2.5"],
-      "Traslape":    [2, "H - 2.5"],
+      "Cabezal": [1, "A"],
+      "Sillar": [1, "A"],
+      "Jamba": [2, "H - 1.5"],
+      "Enganche": [4, "H - 2.5"],
+      "Traslape": [2, "H - 2.5"],
       "H. Superior": [3, "(A + 2) / 3"],
       "H. Inferior": [3, "(A + 2) / 3"],
       "Vidrio_Alto": [3, "H - 9.3"],
-      "Vidrio_Ancho":[1, "((A + 2) / 3) - 5.5"],
+      "Vidrio_Ancho": [1, "((A + 2) / 3) - 5.5"],
       "Vidrio_Central_Ancho": [1, "((A + 2) / 3) - 5.5 + 0.5"]
     },
     "4 Hojas": {
-      "Cabezal":     [1, "A"],
-      "Sillar":      [1, "A"],
-      "Jamba":       [2, "H - 1.5"],
-      "Enganche":    [4, "H - 2.5"],
-      "Traslape":    [4, "H - 2.5"],
+      "Cabezal": [1, "A"],
+      "Sillar": [1, "A"],
+      "Jamba": [2, "H - 1.5"],
+      "Enganche": [4, "H - 2.5"],
+      "Traslape": [4, "H - 2.5"],
       "H. Superior": [4, "(A + 2) / 4"],
       "H. Inferior": [4, "(A + 2) / 4"],
       "Vidrio_Alto": [4, "H - 9.3"],
-      "Vidrio_Ancho":[1, "((A + 2) / 4) - 5.5"]
+      "Vidrio_Ancho": [1, "((A + 2) / 4) - 5.5"]
     }
   },
   "50-20": {
     "2 Hojas": {
-      "Cabezal":     [1, "A"],
-      "Sillar":      [1, "A"],
-      "Jamba":       [2, "H - 1.5"],
-      "Enganche":    [2, "H - 3"],
-      "Traslape":    [2, "H - 3"],
+      "Cabezal": [1, "A"],
+      "Sillar": [1, "A"],
+      "Jamba": [2, "H - 1.5"],
+      "Enganche": [2, "H - 3"],
+      "Traslape": [2, "H - 3"],
       "H. Superior": [2, "(A - 2.8) / 2"],
       "H. Inferior": [2, "(A - 2.8) / 2"],
       "Vidrio_Alto": [2, "H - 9.3"],
-      "Vidrio_Ancho":[1, "((A - 2.8) / 2) - 1.8"]
+      "Vidrio_Ancho": [1, "((A - 2.8) / 2) - 1.8"]
     },
     "3 Hojas": {
-      "Cabezal":     [1, "A"],
-      "Sillar":      [1, "A"],
-      "Jamba":       [2, "H - 1.5"],
-      "Enganche":    [4, "H - 3"],
-      "Traslape":    [2, "H - 3"],
+      "Cabezal": [1, "A"],
+      "Sillar": [1, "A"],
+      "Jamba": [2, "H - 1.5"],
+      "Enganche": [4, "H - 3"],
+      "Traslape": [2, "H - 3"],
       "H. Superior": [3, "(A - 0) / 3"],
       "H. Inferior": [3, "(A - 0) / 3"],
       "Vidrio_Alto": [3, "H - 9.3"],
-      "Vidrio_Ancho":[1, "((A - 0) / 3) - 0"]
+      "Vidrio_Ancho": [1, "((A - 0) / 3) - 0"]
     },
     "4 Hojas": {
-      "Cabezal":     [1, "A"],
-      "Sillar":      [1, "A"],
-      "Jamba":       [2, "H - 1.5"],
-      "Enganche":    [4, "H - 3"],
-      "Traslape":    [4, "H - 3"],
+      "Cabezal": [1, "A"],
+      "Sillar": [1, "A"],
+      "Jamba": [2, "H - 1.5"],
+      "Enganche": [4, "H - 3"],
+      "Traslape": [4, "H - 3"],
       "H. Superior": [4, "(A - 2.5) / 4"],
       "H. Inferior": [4, "(A - 2.5) / 4"],
       "Vidrio_Alto": [4, "H - 9.3"],
-      "Vidrio_Ancho":[1, "((A - 2.5) / 4) - 1.8"]
-    },
-    "div. baño": {
-      "acrilico": {
-        "Cabezal":   [1, "A"],
-        "Sillar":    [1, "A - 1"],
-        "Jambas":    [1, "H - 3"],
-        "U Fijo":    [2, "H - 4.4"],
-        "U Corr":   [2, "H - 5.4"],
-        "U Horiz":  [4, "(A + 1.4) / 2"],
-     "barra Toall": [2, "{U Horiz} - 8"]
-      }
+      "Vidrio_Ancho": [1, "((A - 2.5) / 4) - 1.8"]
+    }
+  },
+  "div. baño": {
+    "acrilico": {
+      "Cabezal": [1, "A"],
+      "Sillar": [1, "A - 1"],
+      "Jambas": [1, "H - 3"],
+      "U Fijo": [2, "H - 4.4"],
+      "U Corr": [2, "H - 5.4"],
+      "U Horiz": [4, "(A + 1.4) / 2"],
+      "barra Toall": [2, "{U Horiz} - 8"]
     }
   }
 }
