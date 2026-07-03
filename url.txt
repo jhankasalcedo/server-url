@@ -1,1 +1,1 @@
-https://substance-blake-cities-song.trycloudflare.com
+https://api.trycloudflare.com
