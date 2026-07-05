@@ -1,1 +1,1 @@
-https://perth-wanted-digital-adopted.trycloudflare.com
+https://api.trycloudflare.com
