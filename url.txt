@@ -1,1 +1,1 @@
-https://contrast-subcommittee-beam-substance.trycloudflare.com
+https://api.trycloudflare.com
